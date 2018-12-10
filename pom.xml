@@ -83,6 +83,7 @@
             <version>3.0.4</version>
             <configuration>
                 <threshold>High</threshold>
+                <failOnError>false</failOnError>
             </configuration>
             <executions>
                 <execution>
@@ -92,6 +93,7 @@
                 </execution>
             </executions>
         </plugin>
+
 
 
         <plugin>
