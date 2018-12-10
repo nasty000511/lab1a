@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test">
+
+    <test name="Tests">
+        <classes>
+            <class name="MatrixTest"/>
+        </classes>
+    </test>
+
+    <packages>
+        <package  name = "src\test\java.*"/>
+    </packages>
+
+
+
+</suite>
